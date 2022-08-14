@@ -1,0 +1,13 @@
+
+logging:
+  level:
+    root: INFO
+    org:
+      example:
+        cxfclient: DEBUG
+
+spring:
+  profiles:
+    active: local
+
+
